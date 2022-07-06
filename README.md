@@ -28,9 +28,9 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/104551131/177447033-25bdca5c-cad9-4fac-9fb9-0f2a0d12848a.gif" width="35%"/>
 
-<samp><b>I'm Senior Software Engineer @ Aventureza Actividades & Entretenimiento who is passionate about web technologies such as ReactJS, Vuejs, Node.js and so on. Currently I'm Software Engineer for Aventureza Actividades & Entretenimiento, but always looking for new knowledge and how to improve technical solucionts. Previously worked more than 6 years for Banco Santander México as a Software Developer and Project Manager.</b>
+<samp><b>I'm Senior Software Engineer who is passionate about web technologies such as ReactJS, Vuejs, Node.js and so on. Currently I'm Software Engineer for Aventureza Actividades & Entretenimiento, but always looking to get new knowledge and how to improve technical solutions. Previously worked more than 6 years for Banco Santander México as a Software Developer and Project Manager.</b>
 
-<samp><b>I'm a passionate selftaught person who start to explore new frontiers with mobile development with Flutter and cloud development with AWS.</b>
+<samp><b>I'm a passionate selftaught person who start to go through new frontiers and now with mobile development with Flutter and cloud development with AWS.</b>
 
 <samp><b>Full Stack Developer 🐱‍💻 (JavaScript + Vuejs + React + Node || Relational DB + Non Relational DB) || Cloud Development AWS )</b>
 
