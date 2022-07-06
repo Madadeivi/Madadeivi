@@ -1,6 +1,8 @@
 # Hi I'm [David Dorantes 🐱‍💻](https://github.com/Madadeivi)
 <br>
 
+## <p align="center"><h4 align="center"><samp> An Fullstack Developer, An Self-taught person, Software Engineer 👨‍💻  & A Competitive Solution problem </samp></h4></p>
+
 <a href="https://twitter.com/Madadeivi">
   <img align="left" alt="Madadeivi's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
@@ -18,8 +20,6 @@
 </a>
 
 ![M+O28](https://user-images.githubusercontent.com/104551131/177440730-1f8ae586-165e-4e71-b68b-1b11440de83f.jpg)
-
-## <p align="center"><h4 align="center"><samp> An Fullstack Developer, An Self-taught person, Software Engineer 👨‍💻  & A Competitive Solution problem </samp></h4></p>
 
 <div>
 <br>
