@@ -36,7 +36,12 @@
 
 <samp><b>Reach me on 🐱‍👤  david.dorantes.torres@gmail.com and Twitter [@Madadeivi](https://twitter.com/Madadeivi) </b>
 
-<samp><b>Focus on Front End (UI/UX) and scaling up in Back End (creating and improving API's and services).</b>
+<samp><b>Focus on 👁️👄👁️ Front End (UI/UX) and scaling up in Back End (creating and improving API's and services).</b>
+
+<br>
+<br>
+
+<samp><b>Fun fact, i lost my previous github account because i miss where i saved mi backup codes to access to my account. 🤡 😤 </b>
 </div>
 <br>
 <br>
