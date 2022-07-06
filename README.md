@@ -1,7 +1,9 @@
 # Hi I'm [David Dorantes 🐱‍💻](https://github.com/Madadeivi)
-<br>
 
-## <p align="center"><h4 align="center"><samp> An Fullstack Developer, An Self-taught person, Software Engineer 👨‍💻  & A Competitive Solution problem </samp></h4></p>
+<p align="center"><h3 align="center"><samp> A Fullstack Developer, Self-taught Person, Software Engineer 👨‍💻  & A Competitive Problem Solver </samp></h3></p>
+
+<hr>
+<br>
 
 <a href="https://twitter.com/Madadeivi">
   <img align="left" alt="Madadeivi's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
