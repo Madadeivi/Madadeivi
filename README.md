@@ -19,6 +19,9 @@
   <a href="mailto:david.dorantes.torres@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-david.dorantes.torres%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.credly.com/users/david-alan-dorantes-torres/badges#credly" target="_blank">
+    <img alt="Credly Badges" src="https://img.shields.io/badge/Certifications-Credly-blue?style=for-the-badge&logo=credly&logoColor=white"/>
+  </a>
 </p>
 
 ---
