@@ -32,7 +32,7 @@
 I’m **David Dorantes**, a passionate **Full Stack JavaScript Developer** with a strong background in **React, React Native, Node.js**, and **cloud infrastructure (AWS | Azure | GCP)**.  
 I enjoy creating elegant, scalable, and maintainable solutions that combine performance, usability, and modern design.  
 
-🔹 7+ years of experience building enterprise and startup solutions  
+🔹 10+ years of experience building enterprise and startup solutions  
 🔹 Certified in **AWS Cloud Practitioner**, **AWS Developer**, and **Azure Fundamentals**  
 🔹 Passionate about **problem solving, clean code, and continuous learning**  
 
